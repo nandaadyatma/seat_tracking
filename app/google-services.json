@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1040545668308",
+    "firebase_url": "https://feeder-d63d2-default-rtdb.firebaseio.com",
+    "project_id": "feeder-d63d2",
+    "storage_bucket": "feeder-d63d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040545668308:android:280e28f049c9830176ef41",
+        "android_client_info": {
+          "package_name": "com.seattracking.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnDYpQlJCok7RxzEIn00G9HwGgq3yfjAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
